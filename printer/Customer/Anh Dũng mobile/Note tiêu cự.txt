@@ -1,0 +1,2 @@
+Tiêu cự in đẹp : 12.7
+Giải thích: kích thước của bản in là : 12.4 khi in ra sẽ hơi mờ chữ 1 chút vậy nên phải chỉnh cao lên 3 điểm.
